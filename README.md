@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello there, I'm Layesall👋
+
+Passionate & determined to became a web/mobile blacksmith.
+
+- 🌐 Find my projects  : <a href="https://layesall.com/" target="_blank">Layesall</a>
+- 📫 How to reach me   : contact@layesall.com
 
 <!--
 **layesall/layesall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
