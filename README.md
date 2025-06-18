@@ -1,12 +1,15 @@
 ### Hello there, I'm Layesall👋
 
-Passionate & determined to became a web/mobile blacksmith.
+Welcome to my personal boring place.
 
-- 🌐 Find my projects  : <a href="https://layesall.com/" target="_blank">Layesall</a>
-- 📫 How to reach me   : contact@layesall.com
+
 
 <!--
 **layesall/layesall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+🔭 I’m currently working on cirecss, a CSS tool that makes HTML elements responsive and very elegant.
+🌐 Find my projects  : <a href="https://layesall.com/" target="_blank">Layesall</a>
+📫 How to reach me:  <a href="mailto:info.layesall@gmail.com" target="_blank">info@layesall.com</a>
 
 Here are some ideas to get you started:
 
