@@ -1,106 +1,128 @@
-# 🚀 Layesall | Full Stack Developer
+# Layesall
 
-```typescript
-const developer = {
-  name: "Layesall",
-  role: "Full Stack Developer",
-  location: "Brussels, BE",
-  status: "🟢 Available for projects",
-  passion: "Transforming ideas into digital reality",
-  focus: ["React", "Python", "Django", "React Native"]
-}
+> Produits web, SaaS & Shopify — de l’idée au produit.
+
+```ts
+const layesall = {
+  location: "Brussels, Belgium",
+  work: [
+    "Web products",
+    "SaaS",
+    "Shopify",
+    "Backend systems",
+  ],
+  stack: [
+    "Python / Django",
+    "React / Next.js",
+    "SQL",
+  ],
+  status: "Available for freelance projects",
+};
 ```
 
 ---
 
-## 🎯 Current Impact
+## About
 
-### 🎭 Event Platform
+I design and develop modern digital products focused on:
+- simplicity
+- performance
+- usability
+- long-term maintainability
 
-Building the future of event management.
-**Stack:** React + Node.js + MongoDB
-⭐ **Goal:** 100+ stars expected
-🖥️ **Live:** Coming soon
+I work with entrepreneurs, independents and small teams to build:
+- SaaS platforms
+- Shopify stores
+- custom web applications
+- internal tools & APIs
 
-### 📄 CVitae
-
-Portfolio that got you here ✨
-**Stack:** Pure HTML/CSS/JS masterpiece | Responsive & animated
-🔗 [Live Demo](#) | [Source](#)
-
-### 📦 CireCSS
-
-Lightweight CSS framework — because styling should be simple.
+Sometimes the best solution is not writing more code — but simplifying the system correctly.
 
 ---
 
-## 💡 What Drives Me
+## Selected Projects
 
-> "Every line of code is an opportunity to solve a problem, learn something new, and build something meaningful."
+### 🛒 NAJOHAIR
+Shopify store focused on modern hair care products.
 
-I craft performant applications that users love and businesses value. From concept to deployment, I bring ideas to life with **modern tech stacks** and **clean architecture**.
+- Custom storefront
+- Optimized shopping experience
+- Shopify Payments integration
 
----
+**Stack:** Shopify, Liquid
 
-## 🛠️ Tech Arsenal
-
-**Frontend Magic:** React • TypeScript • Next.js • Tailwind
-**Backend Power:** Python • Django • Node.js • PostgreSQL
-**Mobile Excellence:** React Native • Expo
-**DevOps Tools:** Git • Docker • CI/CD • AWS
+🌐 https://najohair.com
 
 ---
 
-## 📈 GitHub Activity
+### 🧠 FAMILIZ
+Lightweight family ERP for managing tasks, members, finances and events.
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=layesall\&theme=gruvbox\&row=1\&column=7)
-![Streak Stats](https://streak-stats.demolab.com/?user=layesall\&theme=gruvbox\&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=layesall\&theme=gruvbox\&hide_border=true\&layout=compact\&langs_count=8)
-
----
-
-## 🌟 Featured Repos
-
-| Project             | Stars | Language      | Description                                         |
-| ------------------- | ----- | ------------- | --------------------------------------------------- |
-| [cvitae](#)         | ⭐     | HTML/CSS/JS   | Portfolio that converts visitors into opportunities |
-| [event-platform](#) | 🚧    | React/Node.js | Complete event management ecosystem                 |
-| [cirecss](#)        | 📦    | CSS           | Responsive CSS framework for rapid development      |
+**Stack:** Go, SQLite, HTML
 
 ---
 
-## 🤝 Let's Connect
+### 🌐 Personal Portfolio
+Minimal portfolio built with a product-oriented approach.
 
-Ready to build something amazing together?
-📬 **Email:** [ulayesall@gmail.com](mailto:ulayesall@gmail.com)
-📍 **Location:** Brussels, Belgium
-🕐 **Response time:** Usually within 24h
+- Smooth animations
+- Clean UI
+- Conversion-focused layout
 
----
-
-## 💬 Current Focus
-
-🔥 Learning advanced React patterns
-🎯 Building scalable full-stack applications
-🌍 Contributing to open source projects
-📱 Exploring React Native opportunities
+**Stack:** Next.js, TypeScript, Tailwind CSS
 
 ---
 
-## 📊 This Week I Spent My Time On
+### 🎫 Zabani Event
+Event management platform with booking and payments.
 
-```text
-React          ████████████░░░░░░░  60%
-Python         ██████░░░░░░░░░░░░░  30%
-JavaScript     ██░░░░░░░░░░░░░░░░░  10%
-```
+**Stack:** Django, Stripe, SQLite  
+**Status:** In development
+
+---
+
+## Philosophy
+
+I don't just build websites.
+
+I build digital products designed to:
+- solve real problems
+- stay simple
+- scale properly
+- feel fast and intuitive
+
+---
+
+## Tech
+
+### Frontend
+React • Next.js • TypeScript • Tailwind
+
+### Backend
+Python • Django • APIs • SQL
+
+### Other
+Shopify • Git • Docker • Linux
+
+---
+
+## GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=layesall&layout=compact&hide_border=true&theme=transparent)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=layesall&show_icons=true&hide_border=true&theme=transparent)
+
+---
+
+## Contact
+
+📍 Brussels / Remote
+
+🌐 Portfolio:
+https://layesall.com
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p>
-
-<p align="center">
-  <i>Built with determination by Layesall • 2024</i>
+  <sub>Simple. Fast. Useful.</sub>
 </p>
